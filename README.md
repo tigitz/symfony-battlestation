@@ -1,9 +1,9 @@
 # Symfony Battlestation
 
 # Requirements
-docker
-docker-compose
-git
+* docker
+* docker-compose
+* git
 
 # TO-DO Features
 * Fresh Symfony project with essential bundles for quick prototyping and easy testing
